@@ -28,3 +28,6 @@ Now you should be back to your App Settings page. Click "Keys and Tokens" at the
 2. Under Authentication Tokens, click regenerate next to Bearer Token. Save it.
 3. Next to Access Token and Secret, click generate and save it.
 
+Now you should have all the keys you need. It's time to move on to the code.
+
+
