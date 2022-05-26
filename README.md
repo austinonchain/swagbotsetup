@@ -24,9 +24,9 @@ You will need the **Bearer Token, API Key and Secret,** and the **Access Token a
 10. Click Save and Yes to change permissions
 
 Now you should be back to your App Settings page. Click "Keys and Tokens" at the top.
-1. Under Consumer Keys, click regenerate and save the new API Key and API Secret somewhere.
-2. Under Authentication Tokens, click regenerate next to Bearer Token. Save it.
-3. Next to Access Token and Secret, click generate and save it.
+1. Under Consumer Keys, click regenerate and save the new **API Key** and **API Secret** somewhere.
+2. Under Authentication Tokens, click regenerate next to **Bearer Token**. Save it.
+3. Next to **Access Token and Secret**, click generate and save both.
 
 Now you should have all the keys you need. It's time to move on to the code.
 
