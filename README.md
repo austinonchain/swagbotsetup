@@ -1,5 +1,5 @@
 # swagbotsetup
-This is a guide for setting up the swag bot on Twitter
+This is a guide for setting up the swag bot on Twitter. (Example)[https://twitter.com/sealswagbot)
 ## Twitter Developer Account
 In order to use the swag bot, you'll need a dedicated Twitter account with Elevated API Access. Here's how to do that.
 1. Create new account
